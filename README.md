@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ripper21 ( Richard Alejandro Silva) 
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Richard Alejandro Silva
+- 👀 I’m interested in ... Code Whatever it takes ! 
 - 🌱 I’m currently learning ...Java Aimed at microservices
 - 💞️ I’m looking to collaborate on ... everything upon IT 
 - 📫 How to reach me ... richardsilva0716@gmail.com
